@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K3LinusLib", "K3LinusLib.csproj", "{F98B24C2-2314-416F-A3A2-7691EF932AAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K3LinusLib", "K3LinusLib\K3LinusLib.csproj", "{F98B24C2-2314-416F-A3A2-7691EF932AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K3LinusViewLib", "..\K3LinusViewLib\K3LinusViewLib.csproj", "{D79D55B2-58F4-4215-B234-1551DBADA2ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K3LinusViewLib", "K3LinusViewLib\K3LinusViewLib.csproj", "{D79D55B2-58F4-4215-B234-1551DBADA2ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
